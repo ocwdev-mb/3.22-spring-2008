@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Engineering",
+      "Nanotechnology"
+    ]
+  ],
+  "legacy_uid": "bc0a27b4-5d1a-7e65-5849-b23f086e7728",
+  "instructors": {
+    "content": [
+      "cf721de3-c0b1-a308-0215-d4e2c4c5c0d1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "95f8215d-b2cc-eeed-7ff9-25ffa389fe98",
+    "website": "3-22-mechanical-behavior-of-materials-spring-2008"
+  },
+  "course_title": "Mechanical Behavior of Materials",
+  "course_description": "Here we will learn about the mechanical behavior of structures and materials, from the continuum description of properties to the atomistic and molecular mechanisms that confer those properties to all materials. We will cover elastic and plastic deformation, creep, fracture and fatigue of materials including crystalline and amorphous metals, semiconductors, ceramics, and (bio)polymers, and will focus on the design and processing of materials from the atomic to the macroscale to achieve desired mechanical behavior. We will cover special topics in mechanical behavior for material systems of your choice, with reference to current research and publications.\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.22",
+  "course_image_thumbnail": {
+    "content": "309c041c-7ae9-1fb0-93a6-438548db334e",
+    "website": "3-22-mechanical-behavior-of-materials-spring-2008"
+  },
+  "learning_resource_types": [
+    "Simulation Videos",
+    "Exams with Solutions",
+    "Projects",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "c91077ba-0353-4ea3-bf3a-4cb37f442923",
+  "site_short_id": "3.22-spring-2008",
+  "title": "Course Metadata"
+}
